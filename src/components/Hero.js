@@ -36,7 +36,7 @@ const Hero = () => {
                             <SchoolIcon className="item__icon"/>
 
                             <div className="card__desc mx-2 my-2">
-                                <h3 className="item__title">APPLY FOR SCHOLARSHIP</h3>
+                                <h3 className="item__title">APPLY FOR <br/>SCHOLARSHIP</h3>
                                 <p><a href="/">View More<ChevronRightIcon/></a></p>
                             </div>
                         </div>
@@ -58,7 +58,7 @@ const Hero = () => {
                             <MenuBookIcon className="item__icon"/>
 
                             <div className="card__desc mx-2 my-2">
-                                <h3 className="item__title">ENROLLMENT PROCESS</h3>
+                                <h3 className="item__title">ENROLLMENT <br/>PROCESS</h3>
                                 <p><a href="/">View More<ChevronRightIcon/></a></p>
                             </div>
                         </div>

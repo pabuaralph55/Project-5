@@ -7,6 +7,12 @@ import SectionData from './components/SectionData.js';
 import Carousel from './components/Carousel';
 import Footer from './components/Footer';
 
+import { library } from '@fortawesome/fontawesome-svg-core'
+import { fab } from '@fortawesome/free-brands-svg-icons'
+import { fas } from '@fortawesome/free-solid-svg-icons'
+
+library.add(fab, fas)
+
 function App() {
 
   const SectionItem = SectionData.map((data) => (

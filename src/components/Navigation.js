@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { Container,Navbar, Nav, NavDropdown } from 'react-bootstrap';
+import Logo from '../images/logo-white.png';
 import './Navigation.css';
 
 const Navigation = () => {
@@ -20,7 +21,7 @@ const Navigation = () => {
         <header className="header">
             <Navbar expand="md" variant="dark" fixed="top" className={navigation ? "p-md-3 active" : "p-md-3"}>
                 <Container>
-                    <Navbar.Brand href="#"><img src="/images/logo-white.png" alt="" /></Navbar.Brand>
+                    <Navbar.Brand href="#"><img src={Logo} alt="" /></Navbar.Brand>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                         <Navbar.Collapse id="basic-navbar-nav" className="text-center">
                         <Nav className="me-auto">
