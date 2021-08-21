@@ -4,6 +4,8 @@ import Navigation from './components/Navigation';
 import Hero from './components/Hero';
 import Section from './components/Section';
 import SectionData from './components/SectionData.js';
+import Carousel from './components/Carousel';
+import Footer from './components/Footer';
 
 function App() {
 
@@ -24,6 +26,8 @@ function App() {
       <Navigation/>
       <Hero/>
       {SectionItem}
+      <Carousel/>
+      <Footer/>
     </div>
   );
 }
