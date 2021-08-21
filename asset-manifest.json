@@ -1,26 +1,35 @@
 {
   "files": {
-    "main.css": "/mini-project-3/static/css/main.da74380b.chunk.css",
-    "main.js": "/mini-project-3/static/js/main.4489f24d.chunk.js",
-    "main.js.map": "/mini-project-3/static/js/main.4489f24d.chunk.js.map",
+    "main.css": "/mini-project-3/static/css/main.d14c8ab0.chunk.css",
+    "main.js": "/mini-project-3/static/js/main.27cc0884.chunk.js",
+    "main.js.map": "/mini-project-3/static/js/main.27cc0884.chunk.js.map",
     "runtime-main.js": "/mini-project-3/static/js/runtime-main.8b2abefd.js",
     "runtime-main.js.map": "/mini-project-3/static/js/runtime-main.8b2abefd.js.map",
     "static/css/2.818011ed.chunk.css": "/mini-project-3/static/css/2.818011ed.chunk.css",
-    "static/js/2.8aa57d15.chunk.js": "/mini-project-3/static/js/2.8aa57d15.chunk.js",
-    "static/js/2.8aa57d15.chunk.js.map": "/mini-project-3/static/js/2.8aa57d15.chunk.js.map",
+    "static/js/2.701dc539.chunk.js": "/mini-project-3/static/js/2.701dc539.chunk.js",
+    "static/js/2.701dc539.chunk.js.map": "/mini-project-3/static/js/2.701dc539.chunk.js.map",
     "index.html": "/mini-project-3/index.html",
     "static/css/2.818011ed.chunk.css.map": "/mini-project-3/static/css/2.818011ed.chunk.css.map",
-    "static/css/main.da74380b.chunk.css.map": "/mini-project-3/static/css/main.da74380b.chunk.css.map",
-    "static/js/2.8aa57d15.chunk.js.LICENSE.txt": "/mini-project-3/static/js/2.8aa57d15.chunk.js.LICENSE.txt",
+    "static/css/main.d14c8ab0.chunk.css.map": "/mini-project-3/static/css/main.d14c8ab0.chunk.css.map",
+    "static/js/2.701dc539.chunk.js.LICENSE.txt": "/mini-project-3/static/js/2.701dc539.chunk.js.LICENSE.txt",
+    "static/media/carousel1.f9e5204a.jpeg": "/mini-project-3/static/media/carousel1.f9e5204a.jpeg",
+    "static/media/carousel2.f7896163.png": "/mini-project-3/static/media/carousel2.f7896163.png",
+    "static/media/carousel3.d8ef3972.jpg": "/mini-project-3/static/media/carousel3.d8ef3972.jpg",
+    "static/media/carousel4.da960684.png": "/mini-project-3/static/media/carousel4.da960684.png",
+    "static/media/carousel5.60978596.png": "/mini-project-3/static/media/carousel5.60978596.png",
     "static/media/Hero.css": "/mini-project-3/static/media/hero.0ba98e3c.jpg",
     "static/media/section1.256c8edc.png": "/mini-project-3/static/media/section1.256c8edc.png",
-    "static/media/section2.4e5b28cc.png": "/mini-project-3/static/media/section2.4e5b28cc.png"
+    "static/media/section2.4e5b28cc.png": "/mini-project-3/static/media/section2.4e5b28cc.png",
+    "static/media/section3.12916bdd.png": "/mini-project-3/static/media/section3.12916bdd.png",
+    "static/media/section4.fc001a58.png": "/mini-project-3/static/media/section4.fc001a58.png",
+    "static/media/section5.9431b50c.png": "/mini-project-3/static/media/section5.9431b50c.png",
+    "static/media/section6.c1986a55.png": "/mini-project-3/static/media/section6.c1986a55.png"
   },
   "entrypoints": [
     "static/js/runtime-main.8b2abefd.js",
     "static/css/2.818011ed.chunk.css",
-    "static/js/2.8aa57d15.chunk.js",
-    "static/css/main.da74380b.chunk.css",
-    "static/js/main.4489f24d.chunk.js"
+    "static/js/2.701dc539.chunk.js",
+    "static/css/main.d14c8ab0.chunk.css",
+    "static/js/main.27cc0884.chunk.js"
   ]
 }
