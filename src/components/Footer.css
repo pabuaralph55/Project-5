@@ -1,5 +1,6 @@
 .filler {
     position: relative;
+    height: 40vh;
     background-image: url('/src/images/filler.jpg');
     background-size: cover;
     background-position: center;

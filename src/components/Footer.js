@@ -14,14 +14,14 @@ const Footer = () => {
                 </div>
             </Container> */}
 
-            <div className="filler p-5">
-                <div className=" d-flex flex-column align-items-center justify-content-center">
+            <div className="filler d-flex flex-column align-items-center justify-content-center p-5">
+                <div className="">
                     <h2 className="filler__title">Turn your passion into a career</h2>
-                    <button className="btn btn-custom-dark text-uppercase w-50">SEE COMPLETE LIST OF SPECIALIZED PROGRAMS</button>
+                    <button className="btn btn-custom-dark text-uppercase">SEE COMPLETE LIST OF SPECIALIZED PROGRAMS</button>
                 </div>
             </div>
 
-            <Container className="mt-5">
+            <Container fluid className="mt-5">
                 <div className="row d-flex align-items-start">
                     <div className="col-md-4 d-flex flex-column align-items-center">
                         <img src={footerLogo} className="footer__logo" alt="" />
@@ -32,7 +32,7 @@ const Footer = () => {
                         <p className="footer__details d-flex justify-content-between align-items-center"><FontAwesomeIcon icon="map-marker-alt" className="footer__icon"/>Benilde Center for Admissions 2544 Taft Avenue, Malate, Manila, Philippines 1004</p>
                         <p className="footer__details d-flex justify-content-between align-items-center"><FontAwesomeIcon icon="envelope" className="footer__icon"/>admissions@benilde.edu.ph</p>
                         <p className="footer__details d-flex justify-content-between align-items-center"><FontAwesomeIcon icon={["fab", "facebook"]} className="footer__icon"/> DLS-CSB Admissions Center</p>
-                        <p className="footer__details d-flex justify-content-between align-items-center"><FontAwesomeIcon icon={["fab", "viber"]} className="footer__icon"/> 09452788877 (Ms. Claire) / <br/>09496683082 (Mr. Paulo) / <br/>09452785612 (Ms. Lhor)</p>
+                        <p className="footer__details d-flex justify-content-between align-items-center"><FontAwesomeIcon icon={["fab", "viber"]} className="footer__icon"/> 09452788877 (Ms. Claire) / 09496683082 (Mr. Paulo) / 09452785612 (Ms. Lhor)</p>
                     </div>
 
                     <div className="col-md-4">
